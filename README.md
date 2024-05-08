@@ -1,2 +1,2 @@
-# Timebox Custom Firmware
-Divoom Timebox Custom firmware, to use all its power.
+###### Timebox Custom Firmware
+Divoom Timebox Custom firmware to unleash its full power. 
